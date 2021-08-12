@@ -14,7 +14,7 @@ pytorch >= 0.4.0 or 1.0
  ```
  ### Frame extraction from Videos:
  
- Run: ```python frame_extraction.py```
+ ```python frame_extraction.py```
 
 Frames will be extracted into the folder,images 
 
