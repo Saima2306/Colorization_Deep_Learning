@@ -25,5 +25,5 @@ Frames will be extracted into the folder,images
 ```python inferenece_on_images.py```
 
 #### Testing on Videos:
-```python inference_on_videos.py```
+```python inference_on_videos.py```<br />
 Result will be saved in out_video
