@@ -22,7 +22,8 @@ Frames will be extracted into the folder,images
 ``` python train.py ```
 ### Testing:
 #### Testing on Images:
-```python inferenece_on_images.py```
+```python inferenece_on_images.py```<br />
+Results will be saved in outputs
 
 #### Testing on Videos:
 ```python inference_on_videos.py```<br />
